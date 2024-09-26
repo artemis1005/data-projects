@@ -6,7 +6,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/your-username/data-projects.git
+    git clone https://github.com/artemis1005/data-projects.git
     ```
 
 2. Install dependencies:
