@@ -1,0 +1,42 @@
+# Ignore data files (add specific dataset file extensions)
+data/
+*.csv
+*.xlsx
+*.json
+
+# Ignore logs
+*.log
+
+# Ignore virtual environment directories
+venv/
+env/
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled libraries
+*.so
+*.dll
+*.dylib
+
+# Ignore Docker files (if not necessary to commit)
+docker-compose.yml
+*.env
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore model files and large binary files (add specific extensions if necessary)
+*.pkl
+*.h5
+*.model
